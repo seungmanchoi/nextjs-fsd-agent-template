@@ -114,6 +114,7 @@ Phase 7: Deployment     Vercel / Self-hosted
 | **독립 Evaluator** | Generator(builder/integrator/developer)와 Evaluator(reviewer/inspector) 분리 |
 | **Hard Threshold** | pass/fail 경성 기준. typecheck 0 에러, any 0개, FSD 위반 0개 |
 | **디자인 4축 평가** | Design Quality(30%), Originality(25%), Craft(25%), Functionality(20%) |
+| **디자인 가드레일** | Do's & Don'ts로 AI의 오프브랜드 선택을 사전 차단 |
 | **능동 테스트** | 정적 분석 + `npm run typecheck/lint/build` 실행 |
 
 ---
